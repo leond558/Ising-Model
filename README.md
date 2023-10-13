@@ -18,3 +18,5 @@ To demonstrate the capabilities of the program, I provide several examples of Is
 <img width="383" alt="Screenshot 2023-10-13 at 21 36 13" src="https://github.com/leond558/Ising-Model-Project/assets/113116336/ef322a99-d212-4538-8ad2-bce5243d2c81">
 
 <img width="349" alt="Screenshot 2023-10-13 at 21 36 24" src="https://github.com/leond558/Ising-Model-Project/assets/113116336/61652a77-3f81-4490-9c67-63c29e11e729">
+
+All analyses and visualisations can be seen in the paper in the repository.
